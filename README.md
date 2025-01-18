@@ -28,14 +28,13 @@ Summarizing Expenses:
 A single command will calculate and display the total money spent, ensuring you’re always aware of your financial standing.
 
 ### How to Use It?
-Clone or download the project files.
-Open your terminal and navigate to the project folder.
-Run the program by typing:
-bash
-Copy
-Edit
-python main.py
-Use the menu options to add, view, or summarize expenses.
+1) Clone or download the project files.
+2) Open a terminal or command prompt.
+3) Go to the project folder:
+ type cd ExpenseTracker
+4) Run the program:
+type python main.py
+5) Use the menu options to add, view, or summarize expenses.
 
 ### Why Is This Project Useful?
 Budget Planning: Easily identify your spending patterns and plan your budget more effectively.
